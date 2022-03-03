@@ -1,0 +1,6 @@
+﻿It removed lava slimes' lava-spawning behavior in expert/master mode.
+Pretty useful for expert/master mode players who are tired with lava slimes.
+移除了熔岩史莱姆在专家/大师模式下生成熔岩的行为。
+对于玩专家/大师模式但是不想要熔岩史莱姆生成熔岩的玩家十分有用。
+
+Github: https://github.com/Crapsky233/LavalessLavaSlime

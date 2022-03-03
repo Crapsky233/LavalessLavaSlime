@@ -1,0 +1,4 @@
+displayName = Lavaless Lava Slime
+author = -Cyril-
+version = 1.0
+homepage = https://github.com/Crapsky233/LavalessLavaSlime
