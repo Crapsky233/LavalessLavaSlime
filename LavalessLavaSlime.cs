@@ -20,7 +20,7 @@ namespace LavalessLavaSlime
 
         public override void Load() {
             base.Load();
-            IL.Terraria.NPC.VanillaHitEffect += context => {
+            IL.Terraria.NPC.VanillaHitEffect_Inner += context => {
                 try {
                     var c = new ILCursor(context);
 
